@@ -1,9 +1,9 @@
 
 body{ 
         font-family: Arial, sans-serif;
-        background-color: #f4f4f4;
-        margin: 0;
-        padding: 0;
+        background-color: #e6f7ff;;
+        margin: 0px;
+        padding: 0px;
         }
   
 nav     {background-color: #8d3e0a44;
@@ -15,7 +15,6 @@ nav     {background-color: #8d3e0a44;
 nav a   {color: white;
         margin: 0 15px;
         text-decoration: bold;
-        
         }   
 
 nav a:hover {text-decoration: none;
@@ -28,10 +27,32 @@ h1, h2, h3 {color: #6d4804;
                 }
         
         
-
+/* ========== here for EX2 ========== 
 p       {color: #0e0900;
+        margin: 10px;
             }
 
+label {font-weight: bold; 
+        margin: 5px;
+            }
 
-/* 3. Add a CSS rule to style the <h1> element in the same way as the <h2> and <h3> elements. */        
+input[type="text"], [type="textarea"]
+        {width: 20px; 
+                margin: 5px;
+                padding: 5px;
+                color: #6d4804;
+                    border: 1px solid #6d4804;
+                    border-radius: 5px;
+                    }
 
+            
+button  {background-color: #8d3e0a;
+                    color: white;
+                    margin: 5px;
+                    padding: 5px;
+                    border: none;
+                    border-radius: 5px;
+                    align-items: center;
+                    }
+
+*/
